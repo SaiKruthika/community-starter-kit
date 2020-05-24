@@ -1,7 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+## hey mona
 - A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 -oh! i havn't introduced about me....here i am....
 ### What it does
